@@ -1,6 +1,6 @@
 # Restaurant-Page-TOP-10
 
-A simple Restaurant Page that is dynamically rendered.
+A simple Restaurant Page that is dynamically rendered. Use `npm run build` command to build the page.
 
 ## Assignment
 

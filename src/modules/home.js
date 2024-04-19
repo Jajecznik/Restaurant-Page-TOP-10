@@ -22,6 +22,7 @@ export default function homeTab() {
 
     // hours header
     const hoursHeader = document.createElement('h2');
+    hoursHeader.style.textAlign = "center";
     hoursHeader.innerText = "Hours";
     hoursContainer.appendChild(hoursHeader);
 
